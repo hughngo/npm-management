@@ -1,0 +1,26 @@
+{
+  "name": "@hcngo/test",
+  "version": "1.0.0",
+  "description": "Test Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Hugh Ngo",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughngo/npm-management.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "bugs": {
+    "url": "https://github.com/hughngo/npm-management/issues"
+  },
+  "homepage": "https://github.com/hughngo/npm-management#readme"
+}
